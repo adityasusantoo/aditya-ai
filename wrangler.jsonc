@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aditya-ai",
+  "compatibility_date": "2026-05-16",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "ADIIT"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
